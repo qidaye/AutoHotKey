@@ -32,3 +32,5 @@ my auto hot key collections
 
 ## move-point
 每分钟自动移动鼠标位置，防止系统锁定
+v1: 1.x版本脚本
+v2: 2.x版本脚本

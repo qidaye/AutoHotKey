@@ -1,3 +1,5 @@
+#Requires AutoHotkey v1.0
+
 While(True)
 {
 	MouseGetPos, xpos, ypos 
