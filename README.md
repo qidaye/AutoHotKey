@@ -34,3 +34,6 @@ my auto hot key collections
 每分钟自动移动鼠标位置，防止系统锁定。当锁屏时不再移动。  
 v1: 1.x版本脚本  
 v2: 2.x版本脚本  
+
+## hotcorner_lockscreen
+触发角锁屏 - 左下角（Deskflow 多屏环境）
