@@ -37,3 +37,6 @@ v2: 2.x版本脚本
 
 ## hotcorner_lockscreen
 触发角锁屏 - 左下角（Deskflow 多屏环境）
+
+## UbuntuLockSync
+Ubuntu锁屏自动同步
